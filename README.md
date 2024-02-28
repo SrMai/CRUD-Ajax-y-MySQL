@@ -2,8 +2,10 @@
 Este es un CRUD en PHP con AJAX y MySQL realizado como parte de una prueba técnica para MAVI. Actualmente es capaz de realizar las funciones "CRUD" mas la capacidad de tener una paginación y ordenamiento alfanumérico de los registros mostrados al dar click en las columnas.
 
 ## DEMO
-En el siguiente enlace se puede ver una demo funcional del proyecto, no hay credenciales de acceso.
+En el siguiente enlace se puede ver una demo funcional del proyecto
 [DEMO](https://carlosayala.space/ud/index.php)
+Usuario: admin
+Contraseña: admin
 
 ## Funcionalidades
 - CRUD completo: Permite crear, leer, actualizar y eliminar registros en la base de datos.
@@ -11,6 +13,7 @@ En el siguiente enlace se puede ver una demo funcional del proyecto, no hay cred
 - Ordenamiento: Permite ordenar los registros alfanuméricamente al hacer clic en las columnas de la tabla.
 - Filtrado: Posibilidad de buscar registros según diferentes criterios o palabras clave.
 - Interfaz fácil de usar: Diseño intuitivo y amigable para una experiencia de usuario óptima.
+- Login
 
 ## Instalación
 1. Clona este repositorio en tu máquina local.
